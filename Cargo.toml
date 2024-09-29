@@ -1,0 +1,19 @@
+[package]
+name = "advent_of_code"
+version = "0.1.0"
+edition = "2021"
+authors = ["Dylan Quinn <dylanocuinn4@gmail.com>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.4.6", features = ["derive"] }
+colored = "2.1.0"
+crypto = "0.5.1"
+fixedbitset = "0.4.2"
+itertools = "0.11.0"
+md5 = "0.7.0"
+petgraph = "0.6.5"
+prse = "1.2.1"
+log = "0.4.22"
+simple_logger = "5.0.0"

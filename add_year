@@ -1,0 +1,31 @@
+#!/bin/bash
+
+year=$1
+
+mkdir "src/year_${year}"
+
+cp "templates/day.rs" "src/year_${year}/day_01.rs"
+cp "templates/day.rs" "src/year_${year}/day_02.rs"
+cp "templates/day.rs" "src/year_${year}/day_03.rs"
+cp "templates/day.rs" "src/year_${year}/day_04.rs"
+cp "templates/day.rs" "src/year_${year}/day_05.rs"
+cp "templates/day.rs" "src/year_${year}/day_06.rs"
+cp "templates/day.rs" "src/year_${year}/day_07.rs"
+cp "templates/day.rs" "src/year_${year}/day_08.rs"
+cp "templates/day.rs" "src/year_${year}/day_09.rs"
+cp "templates/day.rs" "src/year_${year}/day_10.rs"
+cp "templates/day.rs" "src/year_${year}/day_11.rs"
+cp "templates/day.rs" "src/year_${year}/day_12.rs"
+cp "templates/day.rs" "src/year_${year}/day_13.rs"
+cp "templates/day.rs" "src/year_${year}/day_14.rs"
+cp "templates/day.rs" "src/year_${year}/day_15.rs"
+cp "templates/day.rs" "src/year_${year}/day_16.rs"
+cp "templates/day.rs" "src/year_${year}/day_17.rs"
+cp "templates/day.rs" "src/year_${year}/day_18.rs"
+cp "templates/day.rs" "src/year_${year}/day_19.rs"
+cp "templates/day.rs" "src/year_${year}/day_20.rs"
+cp "templates/day.rs" "src/year_${year}/day_21.rs"
+cp "templates/day.rs" "src/year_${year}/day_22.rs"
+cp "templates/day.rs" "src/year_${year}/day_23.rs"
+cp "templates/day.rs" "src/year_${year}/day_24.rs"
+cp "templates/day.rs" "src/year_${year}/day_25.rs"
